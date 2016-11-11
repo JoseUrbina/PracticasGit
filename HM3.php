@@ -10,7 +10,8 @@
 
 		echo "Hola Mundo 2";
 		echo "Hola Mundo 3";
-
+		echo "Hola Mundo 4";
+		echo "Hola Mundo 5";
 	?>
 </body>
 </html>
